@@ -3,7 +3,7 @@ conda install -c conda-forge emcee pip install tensorflow python -m pip install 
 
 Three areas need to be modified when there is a new target：
 
-the first area is the filename fileone = 'KIC 6431545.txt'
+the first area is the filename fileone = 'XXXXX.txt'
 
 the second area: if there is no third light effect, index = 0, the range of l3 is comment.
 
