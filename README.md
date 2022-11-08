@@ -1,5 +1,12 @@
 # TCBP
-conda install -c conda-forge emcee pip install tensorflow python -m pip install corner
+
+The Column name (nol3divl3) in the relative parameters is the R2(nol3) div R2(l3), which is used to judge whether to add a third light.
+
+conda install -c conda-forge emcee
+
+pip install tensorflow 
+
+python -m pip install corner
 
 Three areas need to be modified when there is a new target：
 
