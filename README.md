@@ -1,7 +1,4 @@
 # TCBP
-
-The Column name flag(nol3orl3) in the relative parameters is used to judge whether to add a third light.
-
 conda install -c conda-forge emcee
 
 pip install tensorflow 
