@@ -1,6 +1,6 @@
 # TCBP
 
-The Column name (nol3divl3) in the relative parameters is the R2(l3) div R2(nol3), which is used to judge whether to add a third light.
+The Column name flag(nol3orl3) in the relative parameters is used to judge whether to add a third light.
 
 conda install -c conda-forge emcee
 
